@@ -56,7 +56,7 @@ python manage.py runserver
 
 # Access the Website 🌐
 
-Open your web browser and go to http://localhost:8000 to access the EasyBankX website. Use the admin credentials to access the admin panel at http://localhost:8000/admin
+Open your web browser and go to http://localhost:8000 to access the EasyBankX website. Use the admin credentials to access the admin panel at http://localhost:8000/admin.
 
 # How to contribute 📙
 
