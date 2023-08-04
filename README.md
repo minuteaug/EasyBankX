@@ -22,7 +22,7 @@ To run the EasyBankX website on your local machine, follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/shallanidevi/EasyBankX.git
+git clone https://github.com/shallanidevi/EasyBankX.git.
 
 Use the cd command to navigate to the directory where you want to create your virtual environment. 
 
